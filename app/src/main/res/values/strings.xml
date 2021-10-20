@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practice from book 1</string>
+    <string name="question_1_text">Калининград - это Калик</string>
+    <string name="question_2_text">Калининград - это Кениг</string>
+    <string name="question_3_text">Калининград - это Кролик</string>
+    <string name="question_4_text">Калининград - это Калиныч</string>
+    <string name="question_5_text">Калининград - это Калыч</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_text">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+    <string name="title_answer">Answer</string>
+</resources>
